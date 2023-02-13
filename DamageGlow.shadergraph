@@ -1961,10 +1961,10 @@
     "m_Guid": {
         "m_GuidSerialized": "83c1ad57-3493-411d-8298-c0c8e355a967"
     },
-    "m_Name": "DissolvePercent",
+    "m_Name": "DamagePercent",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "DissolvePercent",
-    "m_DefaultReferenceName": "_DissolvePercent",
+    "m_RefNameGeneratedByDisplayName": "DamagePercent",
+    "m_DefaultReferenceName": "_DamagePercent",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2171,7 +2171,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "fce24fb05c034e029b843c4eed2daa95",
     "m_Id": 0,
-    "m_DisplayName": "DissolvePercent",
+    "m_DisplayName": "DamagePercent",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
